@@ -1,0 +1,440 @@
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Configuracion.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Configuracion.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Configuracion.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\Repositorio Prog3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Configuracion.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\Repositorio Prog 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Configuracion.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\guido\OneDrive\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Configuracion.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmAgregarCli.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXDNI.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXNombre.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmModificarCli.resources
+C:\Users\Wolf\Desktop\gitkraken\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmVerListadoCli.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Configuracion.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmAgregarCli.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXDNI.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXNombre.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmModificarCli.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmVerListadoCli.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\Repo TPProg3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmAgregarCli.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXDNI.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXNombre.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmModificarCli.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmVerListadoCli.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmAgregarCli.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXDNI.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXNombre.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmModificarCli.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmVerListadoCli.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmAgregarCli.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXDNI.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXNombre.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmModificarCli.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmVerListadoCli.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmAgregarCli.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXDNI.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXNombre.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmModificarCli.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmVerListadoCli.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalculoIngresos.resources
+C:\Users\Emilio\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalcularPorcentajeEquiposPorTipo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalcularPorcentajeEquiposPorTipo.resources
+C:\Users\Wolf\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalculoIngresos.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalcularPorcentajeEquiposPorTipo.resources
+C:\Users\guido\Dropbox\Grupo de trabajos practicos\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalculoIngresos.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AdministrarUsuarios.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarEquipo.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AgregarRepuesto.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorMarca.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorModelo.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumEquipo.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumeroService.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorNumSerie.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarPorTipoDeEquipo.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarRepuesto.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorCliente.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.BuscarServicePorFecha.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalcularPorcentajeEquiposPorTipo.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.CalculoIngresos.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.DetalleService.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmAgregarCli.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXDNI.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmBuscarCliXNombre.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmModificarCli.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.frmVerListadoCli.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.GenerarSalidaService.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.IngresarService.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.InicioSesion.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoDetalleService.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoEquipos.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoRepuesto.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ListadoService.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Marcas.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Modelos.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarDatosEquipo.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.ModificarRepuesto.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeEquipo.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.TiposDeService.resources
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\guido\OneDrive\Desktop\Pendrive\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb

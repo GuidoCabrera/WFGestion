@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AFBF2C4F-37A3-4D38-848B-BE6625F57D58}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TPPROG3</RootNamespace>
+    <AssemblyName>TPPROG3</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe.Designer.cs">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministrarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdministrarUsuarios.Designer.cs">
+      <DependentUpon>AdministrarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarEquipo.Designer.cs">
+      <DependentUpon>AgregarEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarRepuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarRepuesto.Designer.cs">
+      <DependentUpon>AgregarRepuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPorMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPorMarca.Designer.cs">
+      <DependentUpon>BuscarPorMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPorModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPorModelo.Designer.cs">
+      <DependentUpon>BuscarPorModelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPorNumEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPorNumEquipo.Designer.cs">
+      <DependentUpon>BuscarPorNumEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPorNumeroService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPorNumeroService.Designer.cs">
+      <DependentUpon>BuscarPorNumeroService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPorNumSerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPorNumSerie.Designer.cs">
+      <DependentUpon>BuscarPorNumSerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPorTipoDeEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPorTipoDeEquipo.Designer.cs">
+      <DependentUpon>BuscarPorTipoDeEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarRepuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarRepuesto.Designer.cs">
+      <DependentUpon>BuscarRepuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarServicePorCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarServicePorCliente.Designer.cs">
+      <DependentUpon>BuscarServicePorCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarServicePorFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarServicePorFecha.Designer.cs">
+      <DependentUpon>BuscarServicePorFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalcularPorcentajeEquiposPorTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalcularPorcentajeEquiposPorTipo.Designer.cs">
+      <DependentUpon>CalcularPorcentajeEquiposPorTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalculoIngresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculoIngresos.Designer.cs">
+      <DependentUpon>CalculoIngresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas.cs" />
+    <Compile Include="DetalleService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleService.Designer.cs">
+      <DependentUpon>DetalleService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCli.Designer.cs">
+      <DependentUpon>frmAgregarCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarCliXDNI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarCliXDNI.Designer.cs">
+      <DependentUpon>frmBuscarCliXDNI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarCliXNombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarCliXNombre.Designer.cs">
+      <DependentUpon>frmBuscarCliXNombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificarCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarCli.Designer.cs">
+      <DependentUpon>frmModificarCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerListadoCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerListadoCli.Designer.cs">
+      <DependentUpon>frmVerListadoCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenerarSalidaService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerarSalidaService.Designer.cs">
+      <DependentUpon>GenerarSalidaService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarService.Designer.cs">
+      <DependentUpon>IngresarService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioSesion.Designer.cs">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoDetalleService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoDetalleService.Designer.cs">
+      <DependentUpon>ListadoDetalleService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoEquipos.Designer.cs">
+      <DependentUpon>ListadoEquipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoRepuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoRepuesto.Designer.cs">
+      <DependentUpon>ListadoRepuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoService.Designer.cs">
+      <DependentUpon>ListadoService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marcas.Designer.cs">
+      <DependentUpon>Marcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos.Designer.cs">
+      <DependentUpon>Modelos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarDatosEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarDatosEquipo.Designer.cs">
+      <DependentUpon>ModificarDatosEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarRepuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarRepuesto.Designer.cs">
+      <DependentUpon>ModificarRepuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tablas.cs" />
+    <Compile Include="TiposDeEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TiposDeEquipo.Designer.cs">
+      <DependentUpon>TiposDeEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TiposDeService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TiposDeService.Designer.cs">
+      <DependentUpon>TiposDeService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validaciones.cs" />
+    <EmbeddedResource Include="AcercaDe.resx">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministrarUsuarios.resx">
+      <DependentUpon>AdministrarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarEquipo.resx">
+      <DependentUpon>AgregarEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarRepuesto.resx">
+      <DependentUpon>AgregarRepuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPorMarca.resx">
+      <DependentUpon>BuscarPorMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPorModelo.resx">
+      <DependentUpon>BuscarPorModelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPorNumEquipo.resx">
+      <DependentUpon>BuscarPorNumEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPorNumeroService.resx">
+      <DependentUpon>BuscarPorNumeroService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPorNumSerie.resx">
+      <DependentUpon>BuscarPorNumSerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPorTipoDeEquipo.resx">
+      <DependentUpon>BuscarPorTipoDeEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarRepuesto.resx">
+      <DependentUpon>BuscarRepuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarServicePorCliente.resx">
+      <DependentUpon>BuscarServicePorCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarServicePorFecha.resx">
+      <DependentUpon>BuscarServicePorFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalcularPorcentajeEquiposPorTipo.resx">
+      <DependentUpon>CalcularPorcentajeEquiposPorTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalculoIngresos.resx">
+      <DependentUpon>CalculoIngresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleService.resx">
+      <DependentUpon>DetalleService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarCli.resx">
+      <DependentUpon>frmAgregarCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarCliXDNI.resx">
+      <DependentUpon>frmBuscarCliXDNI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarCliXNombre.resx">
+      <DependentUpon>frmBuscarCliXNombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificarCli.resx">
+      <DependentUpon>frmModificarCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerListadoCli.resx">
+      <DependentUpon>frmVerListadoCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerarSalidaService.resx">
+      <DependentUpon>GenerarSalidaService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarService.resx">
+      <DependentUpon>IngresarService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioSesion.resx">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoDetalleService.resx">
+      <DependentUpon>ListadoDetalleService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoEquipos.resx">
+      <DependentUpon>ListadoEquipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoRepuesto.resx">
+      <DependentUpon>ListadoRepuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoService.resx">
+      <DependentUpon>ListadoService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marcas.resx">
+      <DependentUpon>Marcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos.resx">
+      <DependentUpon>Modelos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarDatosEquipo.resx">
+      <DependentUpon>ModificarDatosEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarRepuesto.resx">
+      <DependentUpon>ModificarRepuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TiposDeEquipo.resx">
+      <DependentUpon>TiposDeEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TiposDeService.resx">
+      <DependentUpon>TiposDeService.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
